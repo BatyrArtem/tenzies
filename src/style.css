@@ -3,6 +3,8 @@
 }
 
 body {
+  display: flex;
+  justify-content: center;
   margin: 0;
   background-color: #0B2434;
   padding: 20px;
@@ -60,7 +62,7 @@ main {
 
 .roll-dice {
   height: 50px;
-  width: 100px;
+  width: 150px;
   border: none;
   border-radius: 6px;
   background-color: #5035FF;
